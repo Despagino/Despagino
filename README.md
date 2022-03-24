@@ -1,4 +1,4 @@
-### Hello everyone! I'm Gino Tasis 👋🏼
+# Hello everyone! I'm Gino Tasis 👋🏼
 
 <!--
 **Despagino/Despagino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
